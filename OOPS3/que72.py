@@ -5,7 +5,7 @@ that the functions minList and avgList each take a string as a parameter and ret
 the appropriate value. For example, minList("2 5 1 4") returns 1, and avgList("2 5 1
 4") returns 3.0.'''
 
-#NOTICE-This code is from oops practice set question number 72 which is incorrect ,so just read answer igone this code
+#NOTICE-This code is from oops practice set question number 72 which is incorrect ,so just read answer ignore this code
 '''
 from tkinter import * #1
 window = Tk() #2
